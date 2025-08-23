@@ -62,6 +62,8 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
 
 <img src="https://raw.githubusercontent.com/fazarprgmr/fazarprgmr/output/snake.svg" alt="Snake animation" />
 
+###
+
 
 
 ###
