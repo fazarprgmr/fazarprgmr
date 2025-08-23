@@ -1,12 +1,11 @@
-<br clear="both">
 
-<h1 align="center">Hello World 👋!</h1>
+![Fajar Gumelar](img/github-header-banner.png)
 
-###
 
 <br clear="both">
 
-<h2 align="center">My name is Fazar Gumelar from Indonesia.</h2>
+<p align="center">I’m a student who loves exploring the world of <b><i>technology</i></b> 💡 and <b><i>web development</i></b> 🌐.  
+Passionate about learning new things 🌱, sharpening my coding skills 💻, and discovering the endless possibilities of <b><i>open-source</i></b> 🚀.  </p>
 
 ###
 
