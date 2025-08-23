@@ -4,8 +4,8 @@
 
 <br clear="both">
 
-<h5 align="center">I’m a student who loves exploring the world of <b><i>technology</i></b> 💡 and <b><i>web development</i></b> 🌐.  
-Passionate about learning new things 🌱, sharpening my coding skills 💻, and discovering the endless possibilities of <b><i>open-source</i></b> 🚀.  </h5>
+<h3 align="center">I’m a student who loves exploring the world of <b><i>technology</i></b> 💡 and <b><i>web development</i></b> 🌐.  
+Passionate about learning new things 🌱, sharpening my coding skills 💻, and discovering the endless possibilities of <b><i>open-source</i></b> 🚀.  </h3>
 
 ###
 
@@ -62,11 +62,7 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
 
 <img src="https://raw.githubusercontent.com/fazarprgmr/fazarprgmr/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gj4igm7smklf5q7lvs5hml7o7q&unique={true|1|on|yes}?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
-</div>
 
 ###
 
