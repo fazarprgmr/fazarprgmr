@@ -4,8 +4,8 @@
 
 <br clear="both">
 
-<p align="center">I’m a student who loves exploring the world of <b><i>technology</i></b> 💡 and <b><i>web development</i></b> 🌐.  
-Passionate about learning new things 🌱, sharpening my coding skills 💻, and discovering the endless possibilities of <b><i>open-source</i></b> 🚀.  </p>
+<h3 align="center">I’m a student who loves exploring the world of <b><i>technology</i></b> 💡 and <b><i>web development</i></b> 🌐.  
+Passionate about learning new things 🌱, sharpening my coding skills 💻, and discovering the endless possibilities of <b><i>open-source</i></b> 🚀.  </h3>
 
 ###
 
