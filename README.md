@@ -71,13 +71,7 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fazarprgmr/fazarprgmr/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fazarprgmr/fazarprgmr/output/snake.svg" alt="Snake animation" 
-
-###
 
 
 
