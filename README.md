@@ -92,7 +92,7 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fazarprgmr.fazarprgmr&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fazarprgmr.fazarprgmr&"/>
 </div>
 
 ###
