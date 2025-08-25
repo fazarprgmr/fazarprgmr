@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=5000&color=E75480&background=282A36&center=true&vCenter=true&random=true&width=600&lines=Hello+World%2C+I'm+Fazar+Gumelar)](https://git.io/typing-svg)
 
-
-
 <br clear="both">
 
 <h3 align="center">I’m a student who loves exploring the world of <b><i>technology</i></b> 💡 and <b><i>web development</i></b> 🌐.  
@@ -17,12 +15,19 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
 </div>
 
 ###
-###
-
-<h3 align="center">💻 Languages & Tools</h3>
 
 ###
+
+<h2 align="center">💻 Languages & Tools</h2>
+
+###
+
 <div align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" /><br>
   <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="laravel logo"  />
@@ -32,12 +37,8 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  /><br>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  
 </div>
 
 ###
@@ -70,7 +71,6 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
   </a>
 </div>
 
-
 ###
 
 <br clear="both">
@@ -81,11 +81,8 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fazarprgmr/fazarprgmr/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
-
-
 ###
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
@@ -97,6 +94,5 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fazarprgmr.fazarprgmr&"  />
 </div>
-
 
 ###
