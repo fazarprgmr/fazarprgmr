@@ -17,7 +17,11 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
 </div>
 
 ###
+###
 
+<h3 align="center">💻 Languages & Tools</h3>
+
+###
 <div align="center">
   <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
   <img width="14" />
