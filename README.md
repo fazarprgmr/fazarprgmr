@@ -1,5 +1,7 @@
+<div align="center">
 
-![Fajar Gumelar](img/github-header-banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=E75480&background=282A36&center=true&vCenter=true&random=true&width=435&lines=Hello+World%2C+I'm+Fazar+Gumelar)](https://git.io/typing-svg)
+
 
 
 <br clear="both">
@@ -76,11 +78,17 @@ Passionate about learning new things 🌱, sharpening my coding skills 💻, and
 
 
 ###
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fazarprgmr.fazarprgmr&"  />
 </div>
+
 
 ###
