@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=5000&color=E75480&background=282A36&center=true&vCenter=true&random=true&width=600&lines=Hello+World%2C+I'm+Fazar+Gumelar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=5000&color=E75480&background=282A36&center=true&vCenter=true&random=true&width=1000&lines=Hello+World%2C+I'm+Fazar+Gumelar)](https://git.io/typing-svg)
 
 <br clear="both">
 
